@@ -8,9 +8,9 @@ D. System Design Concepts
 <br>
 
 
-A. **** <u>Algorithms </u> ****
+A. <u>Algorithms:- </u>
 -----
-<hr>
+
 
 I) ***  <span style="color:green"> <u>Searching Algorithms</u> </span>  ***
 -------
@@ -41,9 +41,13 @@ II) **** <span style="color:green"> <u>Sorting Algorithms</u> </span> *****
 
 
 
-#### B. Data Structures:-
+B. <u>Data Structures:- </u>
+-----
 <hr>
+
 I) ****  <span style="color:green"> <u>Linear Data Structures</u> </span>  *****
+---
+
 1. ``Array:``<br>
 &emsp;  Time Complextiy: 
 
