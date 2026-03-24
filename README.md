@@ -43,7 +43,6 @@ II) **** <span style="color:green"> <u>Sorting Algorithms</u> </span> *****
 
 B. <u>Data Structures:- </u>
 -----
-<hr>
 
 I) ****  <span style="color:green"> <u>Linear Data Structures</u> </span>  *****
 ---
@@ -66,6 +65,8 @@ I) ****  <span style="color:green"> <u>Linear Data Structures</u> </span>  *****
 <br>
 
 II) ****  <span style="color:green"> <u>Non-Linear Data Structures</u> </span>  *****
+----
+
 1. ``Trees:``<br>
 &emsp;  Time Complextiy: 
 
@@ -77,10 +78,29 @@ II) ****  <span style="color:green"> <u>Non-Linear Data Structures</u> </span>  
 
 
 
-#### C. Problem Solving Techniques:-
-<hr>
+
+C. <u>Problem Solving Techniques:- </u>
+-----
 
 1. ``Two Pointer Technique:`` 
+
+<hr>
+<br>
+
+
+
+D. <u>Lowel-Level System Design Concepts (API Design):- </u>
+-----
+
+1. ``API:`` is an application programming interface
+
+<hr>
+<br>
+
+E. <u>High-Level System Design Concepts (Over all system design):- </u>
+-----
+
+1. ``DNS:`` Domain Name server converts hostnames(websites) into ip addresses.
 
 <hr>
 <br>
