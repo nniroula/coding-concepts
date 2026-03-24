@@ -9,11 +9,17 @@ D. System Design Concepts
 
 
 #### A. Algorithms:-
+-----
+-----
+
 <hr>
 
 I) ****  <span style="color:green"> <u>Searching Algorithms</u> </span>  *****
+-------
+
 1. ``Linear Search:``<br>
 &emsp;  Time Complextiy: O(n) in the worst case scenario
+
 
 2. ``Binary Search:`` <br>
 &emsp;  Needs sorted array
@@ -21,7 +27,11 @@ I) ****  <span style="color:green"> <u>Searching Algorithms</u> </span>  *****
 <br>
 <br>
 
+
+
 II) **** <span style="color:green"> <u>Sorting Algorithms</u> </span> *****
+----
+
 1. ``Bubble Sort:``<br>
 &emsp;  Time Complextiy: O(n) in the worst case scenario
 
