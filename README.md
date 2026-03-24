@@ -8,13 +8,11 @@ D. System Design Concepts
 <br>
 
 
-#### A. Algorithms:-
+A. **** <u>Algorithms </u> ****
 -----
------
-
 <hr>
 
-I) ****  <span style="color:green"> <u>Searching Algorithms</u> </span>  *****
+I) ***  <span style="color:green"> <u>Searching Algorithms</u> </span>  ***
 -------
 
 1. ``Linear Search:``<br>
