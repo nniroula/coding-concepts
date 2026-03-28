@@ -77,13 +77,19 @@ class ArrayListImplementation{
             alAnother.add(j);
             j++;
         }
-        //resultAl =
+    
         System.out.println("retainAll() method output: " +
         alOne.retainAll(alAnother));
         System.out.println(alOne);
 
         // ***** 9. set() method to update values ***** 
         alOne.set(0, 999); // at index 0, update to new value of 999
+
+        // ***** 10. methods to iterator through are: ******
+        //1 for loop with indices
+        //2 forEach loop with lambda expression
+        //3. Iterator<Integer> itr = list.iterator();
+        //      while(itr.hasNext()){ ... }
 
     }
 }
