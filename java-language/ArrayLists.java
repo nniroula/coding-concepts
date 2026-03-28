@@ -82,6 +82,9 @@ class ArrayListImplementation{
         alOne.retainAll(alAnother));
         System.out.println(alOne);
 
+        // ***** 9. set() method to update values ***** 
+        alOne.set(0, 999); // at index 0, update to new value of 999
+
     }
 }
 
